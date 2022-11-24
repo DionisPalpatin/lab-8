@@ -1,0 +1,1 @@
+wrong in1.txt in2.txt out.txt

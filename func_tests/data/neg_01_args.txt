@@ -1,0 +1,1 @@
+-o lafjaljf.txt ./out/res.txt
